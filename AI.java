@@ -7,7 +7,7 @@ import java.time.LocalDateTime;
 
 public class AI {
 
-    static final String API_KEY = "AIzaSyBW-IJfx_NcqWr-810mP55cYTq9pvZwrAU";
+    static final String API_KEY = "zaSyDmZ-NBLi_LRa8iAw-p8gHvBzUc4AIaWVo";
 
     static final String URL =
         "https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent";
